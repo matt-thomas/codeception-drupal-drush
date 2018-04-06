@@ -1,7 +1,7 @@
 {
-    "name": "ixis/codeception-drupal-drush",
+    "name": "matt-thomas/codeception-drupal-drush",
     "description": "A Codeception module to allow drush commands to be run during tests.",
-    "homepage": "https://github.com/ixis/codeception-drupal-drush",
+    "homepage": "https://github.com/matt-thomas/codeception-drupal-drush",
     "license": "MIT",
     "authors": [
         {
